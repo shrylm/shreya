@@ -1,0 +1,14 @@
+h1,h2{color: #2E294E;}
+h6{text-align: center;}
+p{font-family: times new roman;
+	font-weight: bold;
+	color: #8C2155;
+	padding: 25px;
+	background-color: #D4CDF4;
+	text-align: center;}
+a {color: #5C1A1B;
+	text-decoration: none;}
+body{background-color: #8B85C1;
+	margin: 100px;}
+img{margin: 0 auto;
+	display: block;}
